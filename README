@@ -1,0 +1,5 @@
+~/.screenlayout
+===============
+
+a set of xrandr profiles for my own personal use.
+swap.sh is triggered through udev rules
